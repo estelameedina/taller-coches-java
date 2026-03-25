@@ -43,5 +43,14 @@ Desarrollar una aplicación completa aplicando los principios de la programació
 
 ---
 
+## Ejemplo de uso
+
+El programa permite:
+- Crear coches
+- Añadirlos al taller
+- Gestionar reparaciones
+
+La ejecución se realiza desde consola mediante la clase `Main`.
+
 ## Estado del proyecto
 Proyecto finalizado con fines formativos.
